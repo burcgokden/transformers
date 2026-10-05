@@ -14,6 +14,16 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 
+## Repository status: archived research reference
+
+This repository is archived and read-only to preserve its role as a reference implementation for the associated research paper and subsequent papers and manuscripts that build on this work.
+
+Preserving the code and documentation provides a stable reference for examining the published methods, reproducing experiments, and comparing later developments with this implementation.
+
+No further updates are planned for this repository. Its contents remain publicly available for study and reuse under the existing license. Further development and adaptations can be carried out in separate forks.
+
+When using this implementation in research, please cite the associated paper and record the specific repository commit used.
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://huggingface.co/datasets/huggingface/documentation-images/raw/main/transformers-logo-dark.svg">
